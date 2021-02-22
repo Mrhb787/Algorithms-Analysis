@@ -13,7 +13,7 @@
 - Merge-Sort
 - Heap-Sort
 
-### O(n)
+### [O(n)](https://github.com/Mrhb787/Algorithms-Analysis/tree/main/Sorting%20Algorithms%20Analysis/n%20family)
 - Counting-Sort
 - Radix-Sort
 - Bucket-Sort
