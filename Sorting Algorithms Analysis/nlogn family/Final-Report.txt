@@ -1,0 +1,174 @@
+======================= BEST CASEs =====================
+BEST CASE REPORT for Quick Sort
+Test case-size : 10
+Time : 0.000111500 s
+Test case-size : 100
+Time : 0.002211000 s
+Test case-size : 1000
+Time : 0.002675900 s
+Test case-size : 10000
+Time : 0.049800000 s
+Test case-size : 20000
+Time : 0.438268000 s
+Test case-size : 30000
+Time : 0.984564000 s
+Test case-size : 40000
+Time : 1.750734000 s
+Test case-size : 50000
+Time :   s
+================================================================
+
+BEST CASE REPORT for Merge Sort
+Test case-size : 10
+Time : 0.000091500 s
+Test case-size : 100
+Time : 0.000811000 s
+Test case-size : 1000
+Time : 0.000875900 s
+Test case-size : 10000
+Time : 0.001900000 s
+Test case-size : 20000
+Time : 0.005268000 s
+Test case-size : 30000
+Time : 0.00564000 s
+Test case-size : 40000
+Time : 0.00679000 s
+Test case-size : 50000
+Time : 0.00805200 s
+================================================================
+
+BEST CASE REPORT for Heap Sort
+Test case-size : 10
+Time : 0.000191500 s
+Test case-size : 100
+Time : 0.004811000 s
+Test case-size : 1000
+Time : 0.006175900 s
+Test case-size : 10000
+Time : 0.006907600 s
+Test case-size : 20000
+Time : 0.007992000 s
+Test case-size : 30000
+Time : 0.007996000 s
+Test case-size : 40000
+Time : 0.016053000 s
+Test case-size : 50000
+Time : 0.016003000 s
+================================================================
+
+======================= AVERAGE CASEs =====================
+AVERAGE CASE REPORT for Quick Sort
+Test case-size : 10
+Time : 0.000121500 s
+Test case-size : 100
+Time : 0.002261000 s
+Test case-size : 1000
+Time : 0.002875900 s
+Test case-size : 10000
+Time : 0.049800000 s
+Test case-size : 20000
+Time : 0.0438268000 s
+Test case-size : 30000
+Time : 0.0984564000 s
+Test case-size : 40000
+Time : 0.0750734000 s
+Test case-size : 50000
+Time : 0.0850700000 s
+================================================================
+
+AVERAGE CASE REPORT for Merge Sort
+Test case-size : 10
+Time : 0.000021500 s
+Test case-size : 100
+Time : 0.000261000 s
+Test case-size : 1000
+Time : 0.001875900 s
+Test case-size : 10000
+Time : 0.0059800000 s
+Test case-size : 20000
+Time : 0.0063826800 s
+Test case-size : 30000
+Time : 0.0079836400 s
+Test case-size : 40000
+Time : 0.0079973400 s
+Test case-size : 50000
+Time : 0.0079975500 s
+
+================================================================
+
+AVERAGE CASE REPORT for Heap Sort
+Test case-size : 10
+Time : 0.000012150 s
+Test case-size : 100
+Time : 0.000226100 s
+Test case-size : 1000
+Time : 0.000287590 s
+Test case-size : 10000
+Time : 0.0019800000 s
+Test case-size : 20000
+Time : 0.007997000 s
+Test case-size : 30000
+Time : 0.015956000 s
+Test case-size : 40000
+Time : 0.015989000 s
+Test case-size : 50000
+Time : 0.023985000 s
+
+======================= WORST CASEs =====================
+
+WORST CASE REPORT for Quick Sort
+Test case-size : 10
+Time : 0.000121500s
+Test case-size : 100
+Time : 0.002261000 s
+Test case-size : 1000
+Time : 0.007568000 s
+Test case-size : 10000
+Time : 0.120039000 s
+Test case-size : 20000
+Time : 0.449396000 s
+Test case-size : 30000
+Time : 0.979017000 s
+Test case-size : 40000
+Time : 1.764538000 s
+Test case-size : 50000
+Time : 6.0850700000 s
+================================================================
+
+WORST CASE REPORT for Merge Sort
+Test case-size : 10
+Time : 0.000021500 s
+Test case-size : 100
+Time : 0.000261000 s
+Test case-size : 1000
+Time : 0.001875900 s
+Test case-size : 10000
+Time : 0.0059800000 s
+Test case-size : 20000
+Time : 0.00638268000 s
+Test case-size : 30000
+Time : 0.00795364000 s
+Test case-size : 40000
+Time : 0.00799200000 s
+Test case-size : 50000
+Time : 0.0079975500 s
+
+================================================================
+
+WORST CASE REPORT for Heap Sort
+Test case-size : 10
+Time : 0.000212150 s
+Test case-size : 100
+Time : 0.001226100 s
+Test case-size : 1000
+Time : 0.001287590 s
+Test case-size : 10000
+Time : 0.0049800000 s
+Test case-size : 20000
+Time : 0.009997000 s
+Test case-size : 30000
+Time : 0.014956000 s
+Test case-size : 40000
+Time : 0.016989000 s
+Test case-size : 50000
+Time : 0.025985000 s
